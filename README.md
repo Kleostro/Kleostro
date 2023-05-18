@@ -1,4 +1,4 @@
- [![MasterHead](banner.png)](https://github.com/Kleostro)
+ [![MasterHead](banner_new.png)](https://github.com/Kleostro)
  <h1 align="center">:computer: I am a junior frontend developer</h1>
  <h2 align="center">:white_check_mark: My tech stack:</h2>
 
