@@ -18,6 +18,4 @@ ____
 
 <h2>:bar_chart: Stats and used languages</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kleostro&theme=merko&show_icons=true)
-____
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleostro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kleostro&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleostro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
