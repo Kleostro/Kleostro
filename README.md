@@ -14,6 +14,7 @@
  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=webpack&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/Gulp-000000?style=for-the-badge&logo=gulp&logoColor=#F7DF1E"/>
+ <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=#F7DF1E"/>
 
 </p>
 
