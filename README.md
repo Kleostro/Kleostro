@@ -8,7 +8,7 @@
  <img src="https://img.shields.io/badge/CSS 3-000000?style=for-the-badge&logo=css3&logoColor=#1572B6"/>
  <img src="https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=sass&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
- <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=#F7DF1E"/>
+ <img src="https://img.shields.io/badge/TS-000000?style=for-the-badge&logo=typescript&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=#F7DF1E"/>
