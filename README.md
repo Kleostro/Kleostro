@@ -9,12 +9,22 @@
  <img src="https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=sass&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/JS-000000?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/TS-000000?style=for-the-badge&logo=typescript&logoColor=#F7DF1E"/>
+ <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=#F7DF1E"/>
+ <img src="https://img.shields.io/badge/Ngrx-000000?style=for-the-badge&logo=ngrx&logoColor=#F7DF1E"/>
+ <img src="https://img.shields.io/badge/RxJS-000000?style=for-the-badge&logo=reactiveX&logoColor=#F7DF1E"/>
+ <img src="https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=#F7DF1E"/>
+ <img src="https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=#F7DF1E"/>
+ <img src="https://img.shields.io/badge/PrimeNG-000000?style=for-the-badge&logo=primeNG&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=webpack&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/Gulp-000000?style=for-the-badge&logo=gulp&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/airbnb-000000?style=for-the-badge&logo=airBNB&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/prettier-000000?style=for-the-badge&logo=prettier&logoColor=#F7DF1E"/>
+  <img src="https://img.shields.io/badge/stylelint-000000?style=for-the-badge&logo=stylelint&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=#F7DF1E"/>
  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=#F7AF1E"/>
 
