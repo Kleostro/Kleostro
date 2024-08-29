@@ -143,6 +143,5 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=Kleostro&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   [![Kleostro's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleostro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Kleostro's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kleostro)](https://github.com/anuraghazra/github-readme-stats)
+ 
  </div>
