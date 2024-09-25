@@ -62,6 +62,16 @@
    </table>
  </div>
 
+  <div align="center">
+   <h3 align="center">🔄 CI/CD</h3>
+   <table>
+     <tr>
+       <td align="center" valign="middle"><img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=#F7AF1E"/></td>
+       <td align="center" valign="middle"><img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=#F7AF1E"/></td>
+     </tr>
+   </table>
+ </div>
+
  <div align="center">
    <h3 align="center">🔨 Build Tools</h3>
    <table>
@@ -77,9 +87,16 @@
    <h3 align="center">🔰 Linters and Formatters</h3>
    <table>
      <tr>
-       <td align="center" valign="middle"><img src="https://img.shields.io/badge/airbnb-000000?style=for-the-badge&logo=airBNB&logoColor=#F7DF1E"/></td>
-       <td align="center" valign="middle"><img src="https://img.shields.io/badge/prettier-000000?style=for-the-badge&logo=prettier&logoColor=#F7DF1E"/></td>
+       <td align="center" valign="middle"><img src="https://img.shields.io/badge/eslint-000000?style=for-the-badge&logo=eslint&logoColor=#F7DF1E"/></td>
        <td align="center" valign="middle"><img src="https://img.shields.io/badge/stylelint-000000?style=for-the-badge&logo=stylelint&logoColor=#F7DF1E"/></td>
+     </tr>
+     <tr>
+       <td align="center" valign="middle"><img src="https://img.shields.io/badge/prettier-000000?style=for-the-badge&logo=prettier&logoColor=#F7DF1E"/></td>
+       <td align="center" valign="middle"><img src="https://img.shields.io/badge/airbnb-000000?style=for-the-badge&logo=airBNB&logoColor=#F7DF1E"/></td>
+     </tr>
+      <tr>
+       <td align="center" valign="middle"><img src="https://img.shields.io/badge/sonarlint-000000?style=for-the-badge&logo=sonarlint&logoColor=#F7DF1E"/></td>
+       <td align="center" valign="middle"><img src="https://img.shields.io/badge/husky-000000?style=for-the-badge&logo=furrynetwork&logoColor=#F7DF1E"/></td>
      </tr>
    </table>
  </div>
@@ -98,11 +115,15 @@
    <h3 align="center">⚙️ Backend Development</h3>
    <table>
      <tr>
+       <td align="center" valign="middle"><img src="https://img.shields.io/badge/NodeJs-000000?style=for-the-badge&logo=node.js&logoColor=#F7DF1E"/></td>
        <td align="center" valign="middle"><img src="https://img.shields.io/badge/NestJs-000000?style=for-the-badge&logo=nestjs&logoColor=#F7DF1E"/></td>
-       <td align="center" valign="middle"><img src="https://img.shields.io/badge/prisma-000000?style=for-the-badge&logo=prisma&logoColor=#F7AF1E"/></td>
      </tr>
      <tr>
        <td align="center" valign="middle"><img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=#F7AF1E"/></td>
+       <td align="center" valign="middle"><img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=#F7AF1E"/></td>
+     </tr>
+     <tr>
+       <td align="center" valign="middle"><img src="https://img.shields.io/badge/prisma-000000?style=for-the-badge&logo=prisma&logoColor=#F7AF1E"/></td>
        <td align="center" valign="middle"><img src="https://img.shields.io/badge/graphql-000000?style=for-the-badge&logo=graphql&logoColor=#F7AF1E"/></td>
      </tr>
    </table>
