@@ -158,9 +158,8 @@
 <h2 align="center">:bar_chart: Stats and used languages</h2>
 
  <div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kleostro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=kleostro&bg_color=000&title_color=ffffff&icon_color=2F855A&text_color=ffffff&langs_count=22&layout=compact&cache_seconds=1800&custom_title=Where%20I%27ve%20been%20working%20lately:"/>
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=Kleostro&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   [![Kleostro's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleostro&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
