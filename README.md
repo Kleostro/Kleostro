@@ -116,15 +116,19 @@
    <table>
      <tr>
        <td align="center" valign="middle"><img src="https://img.shields.io/badge/NodeJs-000000?style=for-the-badge&logo=node.js&logoColor=#F7DF1E"/></td>
+       <td align="center" valign="middle"><img src="https://img.shields.io/badge/graphql-000000?style=for-the-badge&logo=graphql&logoColor=#F7AF1E"/></td>
+     </tr>
+     <tr>
+       <td align="center" valign="middle"><img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=#F7DF1E"/></td>
        <td align="center" valign="middle"><img src="https://img.shields.io/badge/NestJs-000000?style=for-the-badge&logo=nestjs&logoColor=#F7DF1E"/></td>
      </tr>
      <tr>
-       <td align="center" valign="middle"><img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=#F7AF1E"/></td>
        <td align="center" valign="middle"><img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=#F7AF1E"/></td>
+       <td align="center" valign="middle"><img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=#F7AF1E"/></td>
      </tr>
      <tr>
+       <td align="center" valign="middle"><img src="https://img.shields.io/badge/mongoose-000000?style=for-the-badge&logo=mongoose&logoColor=#F7AF1E"/></td>
        <td align="center" valign="middle"><img src="https://img.shields.io/badge/prisma-000000?style=for-the-badge&logo=prisma&logoColor=#F7AF1E"/></td>
-       <td align="center" valign="middle"><img src="https://img.shields.io/badge/graphql-000000?style=for-the-badge&logo=graphql&logoColor=#F7AF1E"/></td>
      </tr>
    </table>
  </div>
