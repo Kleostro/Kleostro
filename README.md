@@ -156,6 +156,14 @@
 
 ---
 
+<h2 align="center">:trophy: Github trophy</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kleostro&theme=onedark&column=7&no-frame=true"/>
+</p>
+
+---
+
 <h2 align="center">:handshake: Collaborations</h2>
 
 - [Greenshop](https://github.com/stardustmeg/greenshop) :herb:
