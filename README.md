@@ -116,7 +116,8 @@
          <img src="https://img.shields.io/badge/NodeJs-000000?style=for-the-badge&logo=node.js&logoColor=#F7DF1E"/>
          <img src="https://img.shields.io/badge/graphql-000000?style=for-the-badge&logo=graphql&logoColor=#F7AF1E"/><br>
          <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=#F7DF1E"/><br>
-         <img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=#F7AF1E"/>
+         <img src="https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=#F7AF1E"/><br>
+         <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=#F7AF1E"/>
          <img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=#F7AF1E"/><br>
          <img src="https://img.shields.io/badge/mongoose-000000?style=for-the-badge&logo=mongoose&logoColor=#F7AF1E"/>
          <img src="https://img.shields.io/badge/prisma-000000?style=for-the-badge&logo=prisma&logoColor=#F7AF1E"/>
